@@ -35,6 +35,7 @@
   border: none;
   cursor: pointer;
   background: rgb(171, 173, 172);
+  box-shadow: 1px 1px 4px #c21010;
 }
 .search__btn:hover {
   background: rgba(171, 173, 172, 0.525);

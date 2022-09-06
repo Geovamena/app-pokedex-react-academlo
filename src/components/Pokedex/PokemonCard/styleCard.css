@@ -74,7 +74,7 @@
   height: 30em;
   border-radius: 0.5em;
   margin: 1em;
-  box-shadow: var(--shadow-elevation-medium);
+  box-shadow: 1px 1px 10px #16213e;
   cursor: pointer;
 }
 .card__title {
